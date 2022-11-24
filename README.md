@@ -14,7 +14,7 @@
 ###	    *H- HomeWork*
 ###	    *3- Porblem number 3*
 
-#### The above file name is decoded into plain sentence as *"It is the solution to the 3rd problem under Homeowork of Dynamic Programming appeared in lecture 1"*
+#### The above file name is decoded into plain sentence as *"It is the solution to the 3rd problem under Homework of Dynamic Programming appeared in lecture 1"*
 ==========================================================================================================
 
 
