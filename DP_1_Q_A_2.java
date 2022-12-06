@@ -4,7 +4,7 @@ public class DP_1_Q_A_2 {
         return fib(n-1) + fib(n-2);
     }
     public static void main(String[] args){
-        System.out.println(fib(10));
+        System.out.println(DP_1_Q_A_2.fib(10));
     }
     
 }
