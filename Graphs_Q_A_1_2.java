@@ -97,6 +97,6 @@ public class Graphs_Q_A_1_2 {
         Graphs_Q_A_1_2 graph = new Graphs_Q_A_1_2();
         graph.solve(A, B, C);
 
-        // need to find the path if exist from B to C;
+        // need to find the path if exist from C to B;
     }
 }
